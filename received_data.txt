@@ -2,3 +2,4 @@ Received message: 1, 1, J626P03, 82, 0.22,0.521, S, Home, Cobot Busy, 1
 Received message: 1, 1, J626P03, 82, 0.22,0.484, S, Z-axis UP, Cobot Home, 0
 Received message: 1, 1, J626P03, 82, 0.22,0.484, S, Z-axis UP, Cobot Home, 0
 Received message: 1, 1, J626P03, 82, 0.22,0.484, S, Z-axis UP, Cobot Home, 0
+Received message: 1, 1, J626P03, 0, 0.22,0.0, NS, Home, Cobot Home, 0
