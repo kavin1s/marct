@@ -7,3 +7,4 @@ Received message: 1, 1, J626P03, 0, 0.22,0.0, NS, Home, Cobot Home, 0
 Received message: 1, 1, J626P03, 0, 0.22,0.0, NS, Home, Cobot Home, 0
 Received message: 1, 1, J626P03, 30, 0.22,0.0, NS, Per Rotation C-axis, Cobot Home, 0
 Received message: 1, 1, J626P03, 30, 0.22,0.0, NS, Per Rotation C-axis, Cobot Home, 0
+Received message: 1, 1, J626P03, 30, 0.22,0.0, NS, Per Rotation C-axis, Cobot Home, 0
