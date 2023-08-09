@@ -1,0 +1,1 @@
+Received message: 1, 1, J626P03, 82, 0.22,0.444, S, Home, Cobot Busy, 1
